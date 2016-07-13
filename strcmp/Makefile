@@ -10,4 +10,5 @@ clean:
 test: all
 	@echo "====Tests===="
 	./${EXE} aaa aac
-	./${EXE} aaa aaac
+	./${EXE} aaa aabc
+	./${EXE} 你好啊 你啊好

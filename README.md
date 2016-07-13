@@ -1,3 +1,3 @@
-## PHP 源码研究
+## PHP Kernel source research.
 
 - [strcmp](strcmp)
