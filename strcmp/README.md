@@ -1,4 +1,4 @@
-## strcmp difference of C and PHP
+## The difference of strcmp function in C and PHP
 
 0. Run it yourself
   `make test`
