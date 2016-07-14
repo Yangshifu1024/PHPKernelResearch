@@ -34,7 +34,7 @@ int main(int argc, char *argv[])
         printf("Usage: %s str1 str2\n", argv[0]);
         return 1;
     }
-    printf("Origin c strcmp: %d\n", strcmp(argv[1], argv[2]));
+    printf("Original c strcmp: %d\n", strcmp(argv[1], argv[2]));
     printf("PHP strcmp: %d\n", php_strcmp(argv[1], argv[2]));
 
     return 0;
